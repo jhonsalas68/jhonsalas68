@@ -1,6 +1,6 @@
 <!-- Encabezado con el banner de diseño premium generado -->
 <p align="center">
-  <img src="github_banner.png" alt="Jhonn Stiven Salas Rodas Banner" width="100%" style="border-radius: 8px;" />
+  <img src="github_banner.png" alt="Jhonn Stiven Salas Rodas Banner" width="600" style="border-radius: 8px;" />
 </p>
 
 <!-- Título Principal y Efecto de Escribir Dinámico -->
@@ -80,27 +80,30 @@ Para mantener una estética premium y consistente con mi paleta de colores prefe
 
 ### 📊 Mis Estadísticas de GitHub
 
-A continuación puedes ver un resumen dinámico de mi actividad y lenguajes más utilizados en la plataforma:
+A continuación puedes ver un resumen dinámico de mi actividad y lenguajes más utilizados. *(Nota: Si estás visualizando esto de forma local en tu IDE, es posible que las imágenes externas no se carguen por políticas de seguridad; se verán correctamente una vez subido a GitHub).*
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jhonsalas68&show_icons=true&locale=es&bg_color=050505&title_color=E50914&text_color=ffffff&icon_color=1565C0&border_color=212121" alt="GitHub Stats" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsalas68&layout=compact&langs_count=8&bg_color=050505&title_color=E50914&text_color=ffffff&icon_color=1565C0&border_color=212121" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top" width="100%">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonsalas68&background=050505&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=1565C0&currStreakLabel=1565C0&border=212121" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonsalas68&show_icons=true&locale=es&bg_color=050505&title_color=E50914&text_color=ffffff&icon_color=1565C0&border_color=212121" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsalas68&layout=compact&langs_count=8&bg_color=050505&title_color=E50914&text_color=ffffff&icon_color=1565C0&border_color=212121" height="195" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonsalas68&background=050505&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=1565C0&currStreakLabel=1565C0&border=212121" height="195" alt="GitHub Streak" />
+</p>
 
 ---
 
-<p align="center">
-  <i>"El software es la infraestructura que sostiene nuestras ideas."</i> 💡
-</p>
+### 💬 Frases Célebres que me Inspiran
+
+> "Talk is cheap. Show me the code."
+> — **Linus Torvalds**
+
+> "La mejor manera de predecir el futuro es inventarlo."
+> — **Alan Kay**
+
+> "La simplicidad es la clave de la confiabilidad."
+> — **Edsger W. Dijkstra**
+
+> "Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso."
+> — **Bill Gates**
