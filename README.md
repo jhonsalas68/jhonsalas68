@@ -1,6 +1,6 @@
 <!-- Encabezado con el banner de diseño premium generado -->
 <p align="center">
-  <img src="github_banner.png" alt="Jhonn Stiven Salas Rodas Banner" width="100%" style="border-radius: 8px;" />
+  <img src="github_banner_v2.png" alt="Jhonn Stiven Salas Rodas Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <!-- Título Principal y Efecto de Escribir Dinámico -->
